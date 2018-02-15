@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(1611,5): warning : The referenced project '..\OurProgram\OurProgram.vcxproj' does not exist.
+  UnitTests_OurProgram.cpp
+  UnitTests_OurProgram.vcxproj -> C:\Users\Doronin Roman\Documents\Visual Studio 2015\Projects\SumTemplateFunction\x64\Debug\UnitTests_OurProgram.exe
+  UnitTests_OurProgram.vcxproj -> C:\Users\Doronin Roman\Documents\Visual Studio 2015\Projects\SumTemplateFunction\x64\Debug\UnitTests_OurProgram.pdb (Full PDB)

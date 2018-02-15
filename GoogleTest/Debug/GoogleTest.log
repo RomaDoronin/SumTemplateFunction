@@ -1,0 +1,5 @@
+﻿  gtest_main.cc
+d:\data_from_git\googletest\googletest\src\gtest_main.cc(32): fatal error C1083: Не удается открыть файл включение: gtest/gtest.h: No such file or directory
+  gtest-all.cc
+d:\data_from_git\googletest\googletest\src\gtest-all.cc(39): fatal error C1083: Не удается открыть файл включение: gtest/gtest.h: No such file or directory
+  Создание кода...
